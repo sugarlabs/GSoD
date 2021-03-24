@@ -3,7 +3,7 @@
 ## Introduction
 Google Season of Documentation is a *global program focused on bringing
 more student developers into open source software development*.
-Sugar Labs will be applying in Google Season of Documentation 2019 as a
+Sugar Labs will be applying in Google Season of Documentation 2021 as a
 mentor organisation.
 
 ## How to talk to us ?
